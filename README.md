@@ -3,7 +3,6 @@ By this code, you can merge multiple excel files into 1 single excel file.
 
     import os
     import pandas as pd
-
     input_file_path = "E:/Pedram/Pedram/Folder/"
     output_file_path = "E:/Pedram/Pedram/Folder/New/"
     excel_file_list = os.listdir(input_file_path)
