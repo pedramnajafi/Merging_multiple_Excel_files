@@ -14,4 +14,3 @@ for excel_files in excel_file_list:
         print(excel_files + " - Done")
 
 df.to_excel(output_file_path+"Final.xlsx")
-
