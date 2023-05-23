@@ -14,4 +14,3 @@ By this code, you can merge multiple excel files into 1 single excel file.
             print(excel_files + " - Done")
     df.to_excel(output_file_path+"Final.xlsx")
 
-
