@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-
 input_file_path = "E:/Pedram/Pedram/Folder/"
 output_file_path = "E:/Pedram/Pedram/Folder/New/"
 excel_file_list = os.listdir(input_file_path)
