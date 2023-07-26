@@ -13,3 +13,4 @@ By this code, you can merge multiple excel files into 1 single excel file.
             df = df.append(df1)
             print(excel_files + " - Done")
     df.to_excel(output_file_path+"Final.xlsx")
+
